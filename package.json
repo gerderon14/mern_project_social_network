@@ -1,0 +1,19 @@
+{
+  "name": "mern_project_social_network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerderon14/mern_project_social_network.git"
+  },
+  "author": "Oleksandr Rabchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerderon14/mern_project_social_network/issues"
+  },
+  "homepage": "https://github.com/gerderon14/mern_project_social_network#readme"
+}
